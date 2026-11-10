@@ -64,17 +64,17 @@ SOFTWARE.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[commits-shield]: https://img.shields.io/github/commit-activity/y/MartinKuhl/addon-bitwarden.svg
-[commits]: https://github.com/MartinKuhl/addon-bitwarden/commits/main
-[docs]: https://github.com/MartinKuhl/addon-bitwarden/blob/main/bitwarden/DOCS.md
-[github-actions-shield]: https://github.com/MartinKuhl/addon-bitwarden/workflows/CI/badge.svg
-[github-actions]: https://github.com/MartinKuhl/addon-bitwarden/actions
-[issue]: https://github.com/MartinKuhl/addon-bitwarden/issues
-[license-shield]: https://img.shields.io/github/license/MartinKuhl/addon-bitwarden.svg
+[commits-shield]: https://img.shields.io/github/commit-activity/y/martinkuhl/addon-bitwarden.svg
+[commits]: https://github.com/martinkuhl/addon-bitwarden/commits/main
+[docs]: https://github.com/martinkuhl/addon-bitwarden/blob/main/bitwarden/DOCS.md
+[github-actions-shield]: https://github.com/martinkuhl/addon-bitwarden/workflows/CI/badge.svg
+[github-actions]: https://github.com/martinkuhl/addon-bitwarden/actions
+[issue]: https://github.com/martinkuhl/addon-bitwarden/issues
+[license-shield]: https://img.shields.io/github/license/martinkuhl/addon-bitwarden.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[releases-shield]: https://img.shields.io/github/release/MartinKuhl/addon-bitwarden.svg
-[releases]: https://github.com/MartinKuhl/addon-bitwarden/releases
-[repository]: https://github.com/MartinKuhl/ha-repository
+[releases-shield]: https://img.shields.io/github/release/martinkuhl/addon-bitwarden.svg
+[releases]: https://github.com/martinkuhl/addon-bitwarden/releases
+[repository]: https://github.com/martinkuhl/ha-repository
 [vaultwarden]: https://github.com/dani-garcia/vaultwarden
 [frenck]: https://github.com/frenck
